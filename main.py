@@ -6,7 +6,9 @@ to /output/entry.txt.
 
 import os
 
-LINE = "I missed the deadline because I was too busy drafting the perfect apology for missing the deadline."
+# The joke's turn: procrastination escalates until "tomorrow" itself
+# takes legal action — the excuse becomes the punchline.
+LINE = "I missed the deadline because I kept pushing it to tomorrow until tomorrow filed a restraining order."
 
 
 def validate(line: str) -> None:
